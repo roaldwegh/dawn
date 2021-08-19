@@ -80,7 +80,7 @@
         "add_image_padding": false,
         "show_image_outline": true,
         "show_vendor": false,
-        "show_rating": false
+        "show_rating": true
       }
     },
     "collage": {
